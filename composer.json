@@ -1,6 +1,6 @@
 {
-    "name": "genealabs/laravel-sign-in-with-apple",
-    "description": "Add Apple's new single-signon feature to your site with ease.",
+    "name": "onora/compatible-laravel-sign-in-with-apple",
+    "description": "FORK ONLY!! Add Apple's new single-signon feature to your site with ease.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -8,7 +8,13 @@
             "name": "Mike Bronner",
             "email": "hello@genealabs.com",
             "homepage": "https://genealabs.com",
-            "role": "Developer"
+            "role": "Author"
+        },
+        {
+            "name": "Kirk Charles Niverba",
+            "email": "kniverba@gramteam.ph",
+            "homepage": "https://onora.ph",
+            "role": "Contributor"
         }
     ],
     "readme": "README.md",
